@@ -1,96 +1,103 @@
 <h1 align="center">Hi 👋 I'm Islam Ibrahim</h1>
 
-<h3 align="center">
-Flutter Developer | Cybersecurity Learner | Data Analysis Enthusiast
-</h3>
+<p align="center">
+Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
+</p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Student at Assiut University (PPIS)
-- 💻 Learning Flutter & Fullstack Development
-- 🔐 Interested in Cybersecurity
-- 📊 Studying Data Analysis
-- 🚀 Building mobile apps with Flutter
-
----
-
-### 🌐 Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/eslam-ibrahim-105364327)
-
----
-
-### 🚀 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,cs,python,git,github,html,css,react,sqlite"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cybersecurity+Learner;Data+Analysis+Explorer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
 
-![Stats](https://github-readme-stats.vercel.app/api?username=islamzaltaa-hub&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com?user=islamzaltaa-hub&theme=tokyonight)
-
-<!--
-**islamzaltaa-hub/islamzaltaa-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h1 align="center">Hi 👋 I'm Islam Ibrahim</h1>
-
-<h3 align="center">
-Flutter Developer | Cybersecurity Learner | Data Analysis Enthusiast
-</h3>
+🎓 Student at **Assiut University - PPIS**  
+💻 Currently learning **Flutter & Fullstack Development**  
+🔐 Interested in **Cybersecurity**  
+📊 Studying **Data Analysis**  
+🚀 Passionate about building **mobile apps**
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 Student at Assiut University (PPIS)
-- 💻 Learning Flutter & Fullstack Development
-- 🔐 Interested in Cybersecurity
-- 📊 Studying Data Analysis
-- 🚀 Building mobile apps with Flutter
-
----
-
-### 🌐 Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/eslam-ibrahim-105364327)
-
----
-
-### 🚀 Tech Stack
+## 🌐 Connect With Me
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,cs,python,git,github,html,css,react,sqlite"/>
+<a href="https://www.linkedin.com/in/eslam-ibrahim-105364327">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=islamzaltaa-hub&show_icons=true&theme=tokyonight)
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=dart,cs,python,java,js" />
+</p>
 
 ---
 
-### 🔥 GitHub Streak
+### 📱 Mobile Development
 
-![Streak](https://streak-stats.demolab.com?user=islamzaltaa-hub&theme=tokyonight)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+---
+
+### 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+### 🛠 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,windows" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=islamzaltaa-hub&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamzaltaa-hub&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=islamzaltaa-hub&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=islamzaltaa-hub&theme=tokyo-night"/>
+</p>
+
+---
+
+⭐ From [Islam Ibrahim](https://github.com/islamzaltaa-hub)

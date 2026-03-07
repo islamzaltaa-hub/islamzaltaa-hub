@@ -1,32 +1,54 @@
-<h1 align="center">Hi  I'm Islam Ibrahim 👋</h1>
+<h1 align="center">Hi I'm Islam Ibrahim 👋</h1>
 
 <p align="center">
 Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=27&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cybersecurity+Learner;Data+Analysis+Explorer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?color=3FA9F5&size=27&center=true&vCenter=true&width=650&lines=Flutter+Developer;Cybersecurity+Learner;Data+Analysis+Explorer;Always+Learning+New+Technologies;Building+Apps+With+Flutter" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Student at **Assiut University - PPIS**  
-💻 Currently learning **Flutter & Fullstack Development**  
+💻 Learning **Flutter & Fullstack Development**  
 🔐 Interested in **Cybersecurity**  
 📊 Studying **Data Analysis**  
-🚀 Passionate about building **mobile apps**
+🚀 Passionate about building **Mobile Apps**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/eslam-ibrahim-105364327">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="center">
+
+<a href="mailto:eslamzaltaa@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+<a href="mailto:islamzaltaa@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/eslam-ibrahim-105364327">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/islamzaltaa-hub">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://youtube.com/@vectorcradze">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
 </p>
+
+📞 **Phone:** 01220604296  
+📘 **Facebook:**  
+https://www.facebook.com/share/188JRe8APB/
 
 ---
 
@@ -35,7 +57,7 @@ Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,cs,python,java,js" />
+<img src="https://skillicons.dev/icons?i=dart,cs,cpp,c,python,java,js,bash" />
 </p>
 
 ---
@@ -43,7 +65,7 @@ Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
 ### 📱 Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin" />
 </p>
 
 ---
@@ -51,7 +73,7 @@ Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
 </p>
 
 ---
@@ -59,7 +81,7 @@ Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
 ### 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
 </p>
 
 ---
@@ -67,7 +89,7 @@ Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
 ### 🛠 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,linux,windows" />
 </p>
 
 ---
@@ -76,9 +98,9 @@ Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=islamzaltaa-hub&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=islamzaltaa-hub&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamzaltaa-hub&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamzaltaa-hub&layout=compact&theme=tokyonight"/>
 
 </p>
 

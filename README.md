@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋 I'm Islam Ibrahim</h1>
+<h1 align="center">Hi  I'm Islam Ibrahim 👋</h1>
 
 <p align="center">
 Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cybersecurity+Learner;Data+Analysis+Explorer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=27&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cybersecurity+Learner;Data+Analysis+Explorer;Always+Learning+New+Technologies" />
 </p>
 
 ---

@@ -3,9 +3,8 @@
 <p align="center">
 Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
 </p>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=3FA9F5&size=27&center=true&vCenter=true&width=650&lines=Flutter+Developer;Cybersecurity+Learner;Data+Analysis+Explorer;Always+Learning+New+Technologies;Building+Apps+With+Flutter" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=700&lines=class+IslamIbrahim+%7B;public:+Flutter+Developer;Cybersecurity+Learner;Data+Analysis+Enthusiast;void+buildApps()+%7B+Flutter+%7D;}" />
 </p>
 
 ---

@@ -1,8 +1,5 @@
 <h1 align="center">Hi I'm Islam Ibrahim 👋</h1>
 
-<p align="center">
-Flutter Developer • Cybersecurity Learner • Data Analysis Enthusiast
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=900&pause=2000&color=00FF00&center=true&vCenter=true&multiline=true&width=750&height=220&lines=public+class+IslamIbrahim+%7B;++++String+role+%3D+%22Flutter+Developer%22%3B;++++String+focus+%3D+%22Cybersecurity+%26+Data+Analysis%22%3B;++++String+university+%3D+%22PPIS+Assiut+University%22%3B;++++void+buildApps%28%29+%7B;++++++++System.out.println%28%22Building+Mobile+Apps+With+Flutter%22%29%3B;++++%7D;%7D"/>
 </p>
 ---

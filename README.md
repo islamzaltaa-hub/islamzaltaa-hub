@@ -1,7 +1,10 @@
 <h1 align="center">Hi I'm Islam Ibrahim 👋</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=600&pause=1500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=260&lines=$+whoami;Islam+Ibrahim;$+skills;Flutter+%7C+Cybersecurity+%7C+Data+Analysis;$+run+career;Building+mobile+apps...;$+git+status;Always+learning+new+technologies...;$+clear"/>
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=600&pause=1500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=290&lines=$+whoami;Islam+Ibrahim;$+skills;Flutter+%7C+Cybersecurity+%7C+Data+Analysis;$+run+career;Building+mobile+apps...;$+git+status;Always+learning+new+technologies...;$+clear"/>
+
 </p>
+
 ---
 
 # 👨‍💻 About Me

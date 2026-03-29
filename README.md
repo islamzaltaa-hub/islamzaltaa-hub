@@ -6,14 +6,21 @@
 </p>
 
 ---
-
 # 👨‍💻 About Me
 
-🎓 Student at **Assiut University - PPIS**  
-💻 Learning **Flutter & Fullstack Development**  
-🔐 Interested in **Cybersecurity**  
-📊 Studying **Data Analysis**  
-🚀 Passionate about building **Mobile Apps**
+👋 Hi, I'm Islam Ibrahim  
+
+🎓 First-year student at **Assiut University (PPIS)**  
+💻 **Flutter Developer** focused on building modern, high-performance mobile applications  
+
+🚀 I specialize in creating clean, responsive UI and smooth user experiences using Flutter  
+🔗 Experienced in integrating **REST APIs** and building real-world, service-based apps (like booking and management systems)  
+
+📱 I enjoy turning ideas into fully functional mobile apps, from UI design to backend integration  
+
+⚡ Currently improving my skills by building real projects and learning advanced Flutter concepts  
+
+🎯 My goal is to become a professional Flutter developer and deliver high-quality apps for clients worldwideApps**
 
 ---
 

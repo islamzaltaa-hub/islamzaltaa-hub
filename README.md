@@ -30,9 +30,9 @@ Hi, I'm **Islam Ibrahim**
 
 </td>
 
-<td width="40%" align="center">
+<td width="50%" align="center">
 
-<img src="assets/images/mobile-app-development.gif" width="330"/>
+<img src="assets/images/mobile-app-development.gif" width="350"/>
 
 </td>
 </tr>

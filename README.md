@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Islam Ibrahim </h1>
+<h1 align="center">Hi, I'm Islam Ibrahim 👋</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=600&pause=1500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=290&lines=$+whoami;Islam+Ibrahim;$+skills;Flutter+Developer;$+focus;Building+Mobile+Apps;$+status;Always+Learning...;$+clear"/>
@@ -6,80 +6,149 @@
 
 ---
 
-# About Me
+<table>
+<tr>
+<td width="50%">
+
+# 👨‍💻 About Me
 
 Hi, I'm **Islam Ibrahim**  
 
- Second-year student at **Assiut University (PPIS)**  
- **Flutter Developer** focused on building modern, high-performance mobile applications  
+🎓 Second-year student at **Assiut University (PPIS)**  
+💻 **Flutter Developer** focused on building modern, high-performance mobile applications  
 
- I specialize in creating clean, responsive UI and smooth user experiences  
- Experienced in integrating **REST APIs** and building real-world apps (booking & service-based systems)  
+🚀 I specialize in creating clean, responsive UI and smooth user experiences using Flutter  
+🔗 Experienced in integrating **REST APIs** and building real-world applications  
 
- I enjoy turning ideas into fully functional mobile apps, from UI design to backend integration  
+📱 I enjoy turning ideas into fully functional mobile apps, from UI design to backend integration  
 
- Currently improving my skills by building real projects and learning advanced Flutter concepts  
+⚡ Currently improving my skills by building real projects and exploring advanced Flutter concepts  
 
- My goal is to become a professional Flutter developer and deliver high-quality apps worldwide  
+💡 I’m passionate about building scalable apps and improving problem-solving skills  
+
+🎯 My goal is to become a professional Flutter developer and work on impactful projects worldwide  
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="assets/images/mobile-app-development.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-#  My Projects
+# 🚀 My Projects
 
 ## 📱 Booking App
-- A mobile app for booking services بسهولة وسرعة  
-- يحتوي على نظام تسجيل مستخدمين وعرض بيانات ديناميكية  
+
+A complete mobile application designed for booking services in a simple and efficient way.  
+The app allows users to browse available services, select suitable time slots, and confirm bookings بسهولة.  
+
+It includes user authentication, dynamic data handling, and smooth navigation between screens.  
+The focus was on building a real-world service-based application that solves an actual problem and improves user experience.  
+
+### 🔥 Features:
+- User login & authentication  
+- Real-time data display  
+- Clean and responsive UI  
+- Smooth navigation between screens  
 
 ### 🔧 Tech Used:
-Flutter • REST API • Firebase  
+Flutter • Firebase • REST API  
 
-Screenshots:
+### 📸 Screenshots:
 <p>
-<img src="YOUR_IMAGE_LINK_HERE" width="200"/>
-<img src="YOUR_IMAGE_LINK_HERE" width="200"/>
+<img src="assets/images/bokkingapp.png" width="250"/>
 </p>
 
 ---
 
-##  E-Commerce App
-- تطبيق متجر إلكتروني بسيط  
-- عرض منتجات + إضافة للسلة  
+## ✅ Task Manager App
 
-###  Tech Used:
-Flutter • API Integration  
+A simple yet powerful task management application built to help users organize their daily activities efficiently.  
 
-Screenshots:
-<p>
-<img src="YOUR_IMAGE_LINK_HERE" width="200"/>
-</p>
+The app allows users to add, edit, delete, and track tasks بسهولة، مع واجهة سهلة الاستخدام وتجربة مريحة.  
 
----
+This project focuses on local data handling and performance optimization for smooth usage.  
 
-##  Task Manager App
-- تطبيق لإدارة المهام اليومية  
-- إضافة / حذف / تعديل المهام  
+### 🔥 Features:
+- Add / Edit / Delete tasks  
+- Local data storage  
+- Fast and responsive performance  
+- Simple and user-friendly UI  
 
 ### 🔧 Tech Used:
-Flutter • Local Database (SQLite)  
+Flutter • Dart • SQLite  
 
-Screenshots:
+### 📸 Screenshots:
 <p>
-<img src="YOUR_IMAGE_LINK_HERE" width="200"/>
+<img src="assets/images/todoapp.png" width="250"/>
 </p>
 
 ---
 
-#  Services
+## 🎓 E-Courses Platform
 
- Build mobile apps using Flutter  
- Create modern and responsive UI  
- Integrate REST APIs  
- Fix bugs and improve app performance  
- Convert ideas into real mobile applications  
+A web-based platform designed to provide online courses and educational content.  
+
+The platform allows users to browse courses, view content, and interact with the system in a structured and organized way.  
+
+This project helped me understand fullstack basics and how to connect frontend with backend logic.  
+
+### 🔥 Features:
+- Course browsing system  
+- Structured content display  
+- Simple and clean web interface  
+- Organized data presentation  
+
+### 🔧 Tech Used:
+C# • HTML • CSS  
+
+### 📸 Screenshots:
+<p>
+<img src="assets/images/ecorsesplatform.jpg" width="250"/>
+</p>
 
 ---
 
-#  Connect With Me
+## 🎉 Event Booking UI
+
+A modern UI design for an event booking application built باستخدام Flutter.  
+
+This project focused on creating an attractive and smooth user interface that enhances user experience.  
+
+It demonstrates my ability to design professional UI layouts and build responsive mobile screens.  
+
+### 🔥 Features:
+- Modern UI design  
+- Smooth layout structure  
+- Responsive screens  
+- Clean and organized components  
+
+### 🔧 Tech Used:
+Flutter (UI Only)  
+
+### 📸 Screenshots:
+<p>
+<img src="assets/images/main-features.png" width="250"/>
+</p>
+
+---
+
+# 💼 Services
+
+💻 Build full mobile applications using Flutter  
+🎨 Design modern, responsive, and user-friendly UI  
+🔗 Integrate REST APIs and backend services  
+⚡ Fix bugs and improve app performance  
+📱 Convert ideas into real, functional mobile applications  
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -101,35 +170,35 @@ Screenshots:
 
 </p>
 
-**Phone:** 01220604296  
+📞 **Phone:** 01220604296  
 
 ---
 
-#  Tech Stack
+# 🛠 Tech Stack
 
-###  Mobile Development
+### 📱 Mobile Development
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-###  Web Basics
+### 🌐 Web Basics
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-###  Databases
+### 🗄 Databases
 <p>
 <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
 </p>
 
-###  Tools
+### ⚙️ Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-#  GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=islamzaltaa-hub&show_icons=true&theme=tokyonight"/>
@@ -138,4 +207,12 @@ Screenshots:
 
 ---
 
- From [Islam Ibrahim](https://github.com/islamzaltaa-hub)
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=islamzaltaa-hub&theme=tokyonight"/>
+</p>
+
+---
+
+⭐ From [Islam Ibrahim](https://github.com/islamzaltaa-hub)

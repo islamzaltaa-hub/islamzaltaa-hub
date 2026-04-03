@@ -10,23 +10,23 @@
 <tr>
 <td width="50%">
 
-# 👨‍💻 About Me
+#  About Me
 
 Hi, I'm **Islam Ibrahim**  
 
-🎓 Second-year student at **Assiut University (PPIS)**  
-💻 **Flutter Developer** focused on building modern, high-performance mobile applications  
+  Second-year student at **Assiut University (PPIS)**  
+  **Flutter Developer** focused on building modern, high-performance mobile applications  
 
-🚀 I specialize in creating clean, responsive UI and smooth user experiences using Flutter  
-🔗 Experienced in integrating **REST APIs** and building real-world applications  
+  I specialize in creating clean, responsive UI and smooth user experiences using Flutter  
+  Experienced in integrating **REST APIs** and building real-world applications  
 
-📱 I enjoy turning ideas into fully functional mobile apps, from UI design to backend integration  
+  I enjoy turning ideas into fully functional mobile apps, from UI design to backend integration  
 
-⚡ Currently improving my skills by building real projects and exploring advanced Flutter concepts  
+   Currently improving my skills by building real projects and exploring advanced Flutter concepts  
 
-💡 I’m passionate about building scalable apps and improving problem-solving skills  
+   I’m passionate about building scalable apps and improving problem-solving skills  
 
-🎯 My goal is to become a professional Flutter developer and work on impactful projects worldwide  
+   My goal is to become a professional Flutter developer and work on impactful projects worldwide  
 
 </td>
 
@@ -40,9 +40,9 @@ Hi, I'm **Islam Ibrahim**
 
 ---
 
-# 🚀 My Projects
-
-## 📱 Booking App
+#    My Projects
+ 
+##   Booking App
 
 A complete mobile application designed for booking services in a simple and efficient way.  
 The app allows users to browse available services, select suitable time slots, and confirm bookings بسهولة.  
@@ -50,47 +50,47 @@ The app allows users to browse available services, select suitable time slots, a
 It includes user authentication, dynamic data handling, and smooth navigation between screens.  
 The focus was on building a real-world service-based application that solves an actual problem and improves user experience.  
 
-### 🔥 Features:
+###   Features:
 - User login & authentication  
 - Real-time data display  
 - Clean and responsive UI  
 - Smooth navigation between screens  
 
-### 🔧 Tech Used:
+###   Tech Used:
 Flutter • Firebase • REST API  
 
-### 📸 Screenshots:
+###   Screenshots:
 <p>
 <img src="assets/images/bokkingapp.png" width="250"/>
 </p>
 
 ---
 
-## ✅ Task Manager App
+##   Task Manager App
 
 A simple yet powerful task management application built to help users organize their daily activities efficiently.  
 
-The app allows users to add, edit, delete, and track tasks بسهولة، مع واجهة سهلة الاستخدام وتجربة مريحة.  
+The app allows users to add, edit, delete, and track tasks.  
 
 This project focuses on local data handling and performance optimization for smooth usage.  
 
-### 🔥 Features:
+###   Features:
 - Add / Edit / Delete tasks  
 - Local data storage  
 - Fast and responsive performance  
 - Simple and user-friendly UI  
 
-### 🔧 Tech Used:
+###   Tech Used:
 Flutter • Dart • SQLite  
 
-### 📸 Screenshots:
+###   Screenshots:
 <p>
 <img src="assets/images/todoapp.png" width="250"/>
 </p>
 
 ---
 
-## 🎓 E-Courses Platform
+##    E-Courses Platform
 
 A web-based platform designed to provide online courses and educational content.  
 
@@ -98,16 +98,16 @@ The platform allows users to browse courses, view content, and interact with the
 
 This project helped me understand fullstack basics and how to connect frontend with backend logic.  
 
-### 🔥 Features:
+###   Features:
 - Course browsing system  
 - Structured content display  
 - Simple and clean web interface  
 - Organized data presentation  
 
-### 🔧 Tech Used:
+###   Tech Used:
 C# • HTML • CSS  
 
-### 📸 Screenshots:
+###   Screenshots:
 <p>
 <img src="assets/images/ecorsesplatform.jpg" width="250"/>
 </p>
@@ -116,39 +116,39 @@ C# • HTML • CSS
 
 ## 🎉 Event Booking UI
 
-A modern UI design for an event booking application built باستخدام Flutter.  
+A modern UI design for an event booking application built by  Flutter.  
 
 This project focused on creating an attractive and smooth user interface that enhances user experience.  
 
 It demonstrates my ability to design professional UI layouts and build responsive mobile screens.  
 
-### 🔥 Features:
+###   Features:
 - Modern UI design  
 - Smooth layout structure  
 - Responsive screens  
 - Clean and organized components  
 
-### 🔧 Tech Used:
+###   Tech Used:
 Flutter (UI Only)  
 
-### 📸 Screenshots:
+###  Screenshots:
 <p>
 <img src="assets/images/main-features.png" width="250"/>
 </p>
 
 ---
 
-# 💼 Services
+#  Services
 
-💻 Build full mobile applications using Flutter  
-🎨 Design modern, responsive, and user-friendly UI  
-🔗 Integrate REST APIs and backend services  
-⚡ Fix bugs and improve app performance  
-📱 Convert ideas into real, functional mobile applications  
+  Build full mobile applications using Flutter  
+  Design modern, responsive, and user-friendly UI  
+  Integrate REST APIs and backend services  
+  Fix bugs and improve app performance  
+  Convert ideas into real, functional mobile applications  
 
 ---
 
-# 🌐 Connect With Me
+#   Connect With Me
 
 <p align="center">
 
@@ -170,35 +170,35 @@ Flutter (UI Only)
 
 </p>
 
-📞 **Phone:** 01220604296  
+  **Phone:** 01220604296  
 
 ---
 
-# 🛠 Tech Stack
+#    Tech Stack
 
-### 📱 Mobile Development
+###   Mobile Development
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### 🌐 Web Basics
+###  Web Basics
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄 Databases
+###   Databases
 <p>
 <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
 </p>
 
-### ⚙️ Tools
+###   Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+#   GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=islamzaltaa-hub&show_icons=true&theme=tokyonight"/>
@@ -207,7 +207,7 @@ Flutter (UI Only)
 
 ---
 
-# 🔥 GitHub Streak
+#    GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=islamzaltaa-hub&theme=tokyonight"/>
@@ -215,4 +215,4 @@ Flutter (UI Only)
 
 ---
 
-⭐ From [Islam Ibrahim](https://github.com/islamzaltaa-hub)
+  From [Islam Ibrahim](https://github.com/islamzaltaa-hub)

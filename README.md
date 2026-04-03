@@ -6,25 +6,25 @@
 </p>
 
 ---
-# 👨‍💻 About Me
+# About Me
 
-👋 Hi, I'm Islam Ibrahim  
+Hi, I'm Islam Ibrahim  
 
-🎓 First-year student at **Assiut University (PPIS)**  
-💻 **Flutter Developer** focused on building modern, high-performance mobile applications  
+ First-year student at **Assiut University (PPIS)**  
+ **Flutter Developer** focused on building modern, high-performance mobile applications  
 
-🚀 I specialize in creating clean, responsive UI and smooth user experiences using Flutter  
+I specialize in creating clean, responsive UI and smooth user experiences using Flutter  
 🔗 Experienced in integrating **REST APIs** and building real-world, service-based apps (like booking and management systems)  
 
-📱 I enjoy turning ideas into fully functional mobile apps, from UI design to backend integration  
+ I enjoy turning ideas into fully functional mobile apps, from UI design to backend integration  
 
-⚡ Currently improving my skills by building real projects and learning advanced Flutter concepts  
+ Currently improving my skills by building real projects and learning advanced Flutter concepts  
 
-🎯 My goal is to become a professional Flutter developer and deliver high-quality apps for clients worldwideApps**
+ My goal is to become a professional Flutter developer and deliver high-quality apps for clients worldwideApps**
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -50,15 +50,15 @@
 
 </p>
 
-📞 **Phone:** 01220604296  
-📘 **Facebook:**  
-https://www.facebook.com/share/188JRe8APB/
+ **Phone:** 01220604296  
+ **Facebook:**  
+htmttps://www.facebook.com/share/188JRe8APB/
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=dart,cs,cpp,c,python,java,js,bash" />
@@ -74,7 +74,7 @@ https://www.facebook.com/share/188JRe8APB/
 
 ---
 
-### 🌐 Web Development
+### Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
@@ -82,7 +82,7 @@ https://www.facebook.com/share/188JRe8APB/
 
 ---
 
-### 🗄 Databases
+###  Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
@@ -90,7 +90,7 @@ https://www.facebook.com/share/188JRe8APB/
 
 ---
 
-### 🛠 Tools & Technologies
+### Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,linux,windows" />
@@ -98,7 +98,7 @@ https://www.facebook.com/share/188JRe8APB/
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -110,7 +110,7 @@ https://www.facebook.com/share/188JRe8APB/
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=islamzaltaa-hub&theme=tokyonight"/>
@@ -118,7 +118,7 @@ https://www.facebook.com/share/188JRe8APB/
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=islamzaltaa-hub&theme=tokyo-night"/>
@@ -126,4 +126,4 @@ https://www.facebook.com/share/188JRe8APB/
 
 ---
 
-⭐ From [Islam Ibrahim](https://github.com/islamzaltaa-hub)
+ From [Islam Ibrahim](https://github.com/islamzaltaa-hub)

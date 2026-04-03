@@ -45,7 +45,7 @@ Hi, I'm **Islam Ibrahim**
 ##   Booking App
 
 A complete mobile application designed for booking services in a simple and efficient way.  
-The app allows users to browse available services, select suitable time slots, and confirm bookings بسهولة.  
+The app allows users to browse available services, select suitable time slots, and confirm bookings .  
 
 It includes user authentication, dynamic data handling, and smooth navigation between screens.  
 The focus was on building a real-world service-based application that solves an actual problem and improves user experience.  
